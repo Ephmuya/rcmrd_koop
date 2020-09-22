@@ -1,0 +1,10 @@
+{
+  "port": 8080,
+  "geonodeProvider": {
+    "hosts": {   
+      "rcmrd": {      
+        "url": "http://geoportal.rcmrd.org"
+      }
+    }
+  }
+}
